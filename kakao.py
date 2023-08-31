@@ -16,7 +16,6 @@ custom_message_url = 'https://kapi.kakao.com/v2/api/talk/memo/send' # 나에게 
 check_url = 'https://kapi.kakao.com/v1/api/talk/friends'
 
 
-
 def f_auth():
     header = {'Content-type': 'application/x-www-form-urlencoded;charset=utf-8'} 
     data = {

@@ -10,7 +10,6 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from urllib.parse import urlparse, parse_qs
 
-# import kakao
 
 # 변수 선언
 board_list = []

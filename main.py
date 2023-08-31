@@ -9,6 +9,7 @@ import logging
 logging.basicConfig(filename='logs/example1.log', level=logging.INFO, format='%(asctime)s %(message)s')
 logging.info('START PROGRAM')
 
+
 items = [
     '아몬드+브리즈', 
     '오메가',
